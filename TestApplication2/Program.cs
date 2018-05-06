@@ -13,6 +13,8 @@ namespace TestApplication2
 
             Console.Write("Hello World Again");
 
+            Console.Write("Hello World From Local Working Directory");
+
         }
     }
 }
